@@ -1,0 +1,18 @@
+body{
+    background-color:cyan;
+    color: black;
+
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object, #result_object_name, #result_accuracy{
+    color: firebrick;
+    font-size: 20px;
+}
+#camera, #result{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
